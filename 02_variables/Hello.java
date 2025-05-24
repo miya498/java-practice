@@ -10,4 +10,6 @@ public class Hello {
         // 日本語の出力も可能
         System.out.println("こんにちは、世界！");
     }
-} 
+}
+// javac Hello.java # コンパイル
+// java Hello # 実行
