@@ -20,7 +20,5 @@ public class Sample01{
         if(s.equals("Hello")){
             System.out.println("sはHelloです。");
         }
-        
-        
     }
 }
